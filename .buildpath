@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="build"/>
+	<buildpathentry kind="src" path="dev/examples"/>
+	<buildpathentry kind="src" path="dev/skeletons"/>
+	<buildpathentry kind="src" path="dev/translation"/>
+	<buildpathentry kind="src" path="documents/custom"/>
+	<buildpathentry kind="src" path="htdocs"/>
+	<buildpathentry kind="src" path="scripts/accountancy"/>
+	<buildpathentry kind="src" path="scripts/bank"/>
+	<buildpathentry kind="src" path="scripts/company"/>
+	<buildpathentry kind="src" path="scripts/contracts"/>
+	<buildpathentry kind="src" path="scripts/cron"/>
+	<buildpathentry kind="src" path="scripts/emailings"/>
+	<buildpathentry kind="src" path="scripts/invoices"/>
+	<buildpathentry kind="src" path="scripts/members"/>
+	<buildpathentry kind="src" path="scripts/product"/>
+	<buildpathentry kind="src" path="scripts/user"/>
+	<buildpathentry kind="src" path="scripts/withdrawals"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
